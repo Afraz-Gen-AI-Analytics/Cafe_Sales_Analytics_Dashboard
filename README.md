@@ -28,8 +28,11 @@ The work was completed in three main phases:
   5. Handled missing values using imputation or removal based on business logic.
   6. Removed duplicate records.
   7. Final dataset saved as `cleaned_cafe_sales.csv` for further analysis.
-## More Information on about this project
+  
+## For More Information on about this project
+02_Cafe_Sales_Analytics_Dashboard_Project_Report.pdf
 [Access Here](https://github.com/Afraz-Gen-AI-Analytics/Cafe_Sales_Analytics_Dashboard/blob/main/02_Cafe_Sales_Analytics_Dashboard_Project_report.pdf)
+
 ## Project Assets
 Google Drive Link (Dataset, PBIX File, Presentation and Documentation):  
 [Access Here](https://drive.google.com/drive/folders/1uAZW5WhPnl0W_UsPSsgxbkN4eTuDR1m_?usp=sharing)
